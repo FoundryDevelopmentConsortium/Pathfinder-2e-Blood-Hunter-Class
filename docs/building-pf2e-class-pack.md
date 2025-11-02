@@ -71,3 +71,5 @@ A lot of the definitions for the class packs appear to be within the `module.jso
 It does look like we need to get these json compiled into .ldb format (level-db) which can be a part of
 a packing and unpacking process handled by foundry once the "packs" are registered, by module.json.
 Review the "scripts" that exists int he above witcher class to understand how "injections" can occur.
+
+Found the official [Creating a PF2e Content Module](https://github.com/foundryvtt/pf2e/wiki/Creating-a-PF2e-Content-Module)

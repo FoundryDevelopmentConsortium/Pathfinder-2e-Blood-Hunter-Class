@@ -149,9 +149,9 @@
       }
     },
     "keyAbility": {
-      "value": ["str"]
+      "value": ["int", "wis"]
     },
-    "perception": 2,
+    "perception": 1,
     "publication": {
       "license": "ORC",
       "remaster": true,
@@ -159,8 +159,8 @@
     },
     "rules": [],
     "savingThrows": {
-      "fortitude": 2,
-      "reflex": 1,
+      "fortitude": 1,
+      "reflex": 2,
       "will": 2
     },
     "skillFeatLevels": {
@@ -172,10 +172,10 @@
     "spellcasting": 0,
     "trainedSkills": {
       "additional": 3,
-      "value": ["athletics"]
+      "value": ["survival"]
     },
     "traits": {
-      "rarity": "common",
+      "rarity": "uncommon",
       "value": []
     }
   },
