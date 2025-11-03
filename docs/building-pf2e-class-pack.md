@@ -73,3 +73,5 @@ a packing and unpacking process handled by foundry once the "packs" are register
 Review the "scripts" that exists int he above witcher class to understand how "injections" can occur.
 
 Found the official [Creating a PF2e Content Module](https://github.com/foundryvtt/pf2e/wiki/Creating-a-PF2e-Content-Module)
+
+The [PF2e Animist actually has Json packs!](https://github.com/reyzor1991/pf2e-animist)

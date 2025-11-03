@@ -7,27 +7,17 @@
     "verified": "13"
   },
   "url": "https://github.com/FoundryDevelopmentConsortium/Pathfinder-2e-Blood-Hunter-Class",
+  "manifest": "https://raw.githubusercontent.com/FoundryDevelopmentConsortium/Pathfinder-2e-Blood-Hunter-Class/refs/heads/main/module.json",
   "flags": {
     "canUpload": true
   },
-  "packs": [
-    {
-      "name": "pack-1",
-      "label": "Pack 1",
-      "path": "packs/pack-1",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
-    }
-  ],
+  "packs": [],
   "relationships": {
     "systems": [
       {
         "id": "pf2e",
         "type": "system",
+        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
         "compatibility": {}
       }
     ]
